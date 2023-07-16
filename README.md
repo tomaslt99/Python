@@ -1,5 +1,3 @@
-# Python-language-tutorials
-
 Python Language basic syntax tutorials
 
 check Wiki - putted lessions individually.
